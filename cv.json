@@ -1,0 +1,243 @@
+{
+    "basics": {
+      "name": "Luis Javier González Galafate ",
+      "label": "Desarrollador de aplicaciones Web",
+      "image": "/me.webp",
+      "email": "javierluisg8@gmail.com",
+      "phone": "+34 606904462",
+      "url": "https://javidev.dev",
+      "summary": "Soy un desarrollador web con experiencia en diseño gráfico y una pasión por la tecnología y el aprendizaje continuo. Mi carrera comenzó en el ámbito creativo, y a lo largo de los años he trabajado en una empresa gestionando y optimizando su página web. Recientemente, completé el grado superior de Desarrollo de Aplicaciones Web (DAW), lo que ha expandido mis habilidades técnicas.",
+      "location": {
+        "address": "",
+        "postalCode": "11406",
+        "city": "Jerez de la frontera",
+        "countryCode": "ES",
+        "region": "España"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "Javier González",
+          "url": "https://www.linkedin.com/in/javier-gonz%C3%A1lez-5035192b1/"
+        },
+        {
+          "network": "GitHub",
+          "username": "s9code",
+          "url": "https://github.com/s9code"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "Briosso´s Marketing",
+        "position": "Desarrollador de Aplicaciones Web en practicas",
+        "url": "https://www.briossosmarketing.com/",
+        "startDate": "2024-01-01",
+        "endDate": "2024-05-22",
+        "summary": "Durante mis prácticas en Briossos Marketing, trabajé en el desarrollo y mantenimiento de sitios web utilizando WordPress y el constructor visual Divi. Mis responsabilidades incluyeron la creación de páginas web, personalización de temas, y la implementación de soluciones específicas mediante el uso de JavaScript y PHP. Además, colaboré con el equipo de marketing para optimizar la experiencia del usuario y mejorar la presencia digital de nuestros clientes.",
+        "highlights": [
+          "Desarrollé y personalicé sitios web utilizando WordPress y Divi"
+        ]
+      },
+      {
+        "name": "Wild Son Clothing Store",
+        "position": "Fundador y Propietario - Wild Son Clothing",
+        "url": null,
+        "startDate": "2018-06-01",
+        "endDate": null,
+        "summary": "Como fundador y propietario de Wild Son Clothing Store, he desarrollado una marca de ropa que refleja mi pasión por el diseño. Me encargo de todas las facetas del negocio, desde la conceptualización de las colecciones hasta la gestión de las operaciones diarias y la estrategia de marketing. He diseñado y lanzado varias líneas de productos, gestionando la tienda en línea y trabajando con proveedores. Además, he implementado campañas de marketing digital para aumentar la visibilidad de la marca.",
+        "highlights": [
+          "Started the company"
+        ]
+      },
+      {
+        "name": "Impresiones Laser",
+        "position": "Creativo y diseñador gráfico",
+        "startDate": "2013-01-01",
+        "endDate": "2024-05-01",
+        "summary": "En mi rol como Creativo y Diseñador Gráfico en Impresiones Láser, fui responsable de la creación y mantenimiento del sitio web de la empresa. Desarrollé y produje una amplia gama de materiales visuales, desde diseños publicitarios hasta packaging y branding corporativo. Me encargué de la creación de diseños vectoriales para diversos formatos y la preparación de archivos para impresión a gran escala, utilizando plotter y otros equipos especializados.",
+        "highlights": [
+          "Creación y mantenimiento de la web"
+        ]
+      }
+    ],
+    "education": [{
+      "institution": "Ilerna",
+      "url": "https://www.ilerna.es/",
+      "area": "Técnico superior en Desarrollo de Aplicaciones Web",
+      "studyType": "Grado Superior",
+      "startDate": "2021-01-01",
+      "endDate": "2024-01-01",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    },
+    {
+      "institution": "UNIR - Universidad Internacional de La Rioja",
+      "url": "https://www.unir.net/",
+      "area": "Grado en Diseño Digital",
+      "studyType": "Grado",
+      "startDate": "2015-01-01",
+      "endDate": "2017-01-01",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    }],
+
+    "skills": [
+      {
+        "name": "HTML",
+        "level": "Master",
+        "keywords": [
+          "Desarrollo Web", "Frontend"
+        ]
+      },
+      {
+        "name": "CSS",
+        "level": "Master",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Diseño Responsive"
+        ]
+      },
+      {
+        "name": "JavaScript",
+        "level": "Master",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+        ]
+      },
+      {
+        "name": "Tailwind",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+        ]
+      },
+      {
+        "name": "TypeScript",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+        ]
+      },
+      {
+        "name": "Node",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+        ]
+      },
+      {
+        "name": "MySQL",
+        "level": "Avanzado",
+        "keywords": [
+          "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+        ]
+      },
+      {
+        "name": "Git",
+        "level": "Avanzado",
+        "keywords": [
+          "Control de Versiones", "Colaboración", "Código Fuente"
+        ]
+      },
+      {
+        "name": "GitHub",
+        "level": "Avanzado",
+        "keywords": [
+          "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+        ]
+      },
+      {
+        "name": "Next.js",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+        ]
+      },
+      {
+        "name": "React",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Spanish",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "Advanced"
+      }
+    ],
+    "interests": [{
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }],
+    "references": [{
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }],
+    "projects": [
+      {
+        "name": "Traductor de idiomas",
+        "isActive": true,
+        "description": "Aplicación de Traducción de Idiomas, utiliza una API externa para realizar las traducciones y cuenta con una funcionalidad de detección automática del idioma de entrada, lo que simplifica el proceso para los usuarios.",
+        "highlights": [
+          "En proceso",
+          "Se conecta a una API de traducción externa",
+          "Realizado con React"
+          
+        ],
+        "url": "https://github.com/s9code/translate-app"
+      },
+      {
+        "name": "Time Tracking",
+        "isActive": true,
+        "description": "Aplicación interactiva diseñada para rastrear el tiempo dedicado a diferentes actividades",
+        "highlights": [
+          "Vista adaptable",
+          "Realizado con JavaScript"
+          
+        ],
+        "url": "https://time-tracking-dashboard-frontend-mentor-five.vercel.app/"
+      },
+      {
+        "name": "Notificaciones RRSS",
+        "isActive": true,
+        "description": "Emulación de una Red Social, que te permite desmarcar las notificaciones.",
+        "highlights": [
+          "Realizado con JavaScript"
+        ],
+        "url": "https://notification-page-react-frontendmentor.vercel.app/"
+      },
+      {
+        "name": "Calculadora de propinas",
+        "isActive": true,
+        "description": "Permite a los usuarios calcular fácilmente la cantidad de propina y el total por persona, basada en el total de la cuenta y el número de personas.",
+        "highlights": [
+          "Calculadora interactiva",
+          "Realizado con JavaScript"
+        ],
+        "url": "https://tip-calculator-frontendmentor-chi.vercel.app/"
+      },
+      {
+        "name": "Calculadora de edad",
+        "isActive": true,
+        "description": "Aplicación desarrollada para calcular la edad exacta de una persona en años, meses y días, tras ingresar una fecha de nacimiento válida.",
+        "highlights": [
+          "Permite a los usuarios ver su edad exacta tras introducir su fecha de nacimiento.",
+          "Realizado con JavaScript"
+        ],
+        "url": "https://https://age-calculator-app-frontend-mentor.vercel.app/-frontend-mentor.vercel.app/"
+      }
+    ]
+  }
